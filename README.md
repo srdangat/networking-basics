@@ -150,30 +150,6 @@ Processes your HTTP request and sends back the web page
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # OSI & TCP/IP Layer Mapping Cheat Sheet
 
 ## Core Memory Hooks
